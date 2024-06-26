@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with [LinkPanel](https://github.com/ATSiCorp/LinkPanel)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ATSiCorp/LinkPanel](https://github.com/ATSiCorp/LinkPanel)
-
 - 💬 Ask me about **Linux, Kerneling, Kernel Developmet, Server DevOps, Networking, Server Configuration**
 
 - 📫 How to reach me **atsidev.io@duck.com**
