@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate System Software developer from Indonesia</h3>
 
 - 🔭 I’m currently working on [LinkPanel](https://github.com/ATSiCorp/LinkPanel)
 
